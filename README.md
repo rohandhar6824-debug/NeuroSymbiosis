@@ -90,10 +90,6 @@ Row 6: 🌍 Sustainability Scores
 Row 7: 🤖 Agent Performance
 Row 8: 🔗 Knowledge Graph + Stats
 ```
-## 🎓 **Built By**
-**Rohan Dhar**    
-*Open Source ML Contributor*
-
 
 ## 🔮 **Future Roadmap**
 ```
@@ -107,3 +103,7 @@ Phase 4: Real fMRI data + clinical trials
 ⭐ **Star if you found this useful!**  
 🧠 **Built with ❤️ for neuroscience + sustainability**
 
+
+## 🎓 **Built By**
+**Rohan Dhar**    
+*Open Source ML Contributor*

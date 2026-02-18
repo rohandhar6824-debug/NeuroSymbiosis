@@ -34,11 +34,11 @@ Multi-Agent AI for Therapeutic Protein Design &amp; Sustainable Biomaterials
 ## 🔥 **Live Results (From Demo Runs)**
 
 ```
-✅ Alzheimer's: Binding -8.5 kcal/mol, Passed ✓
-✅ Parkinson's: Dopamine motif → Passed ✓ 
-✅ Plastic Waste: Sustainability 0.78 ✓
-✅ Huntington's: FAIL (high toxicity) → Learned
-✅ PET Degradation: Sustainability 0.82 ✓
+ Alzheimer's: Binding -8.5 kcal/mol, Passed ✓
+ Parkinson's: Dopamine motif → Passed ✓ 
+ Plastic Waste: Sustainability 0.78 ✓
+ Huntington's: FAIL (high toxicity) → Learned
+ PET Degradation: Sustainability 0.82 ✓
 ```
 
 ## 🛠️ **Production Tech Stack**

@@ -19,7 +19,7 @@ Multi-Agent AI for Therapeutic Protein Design &amp; Sustainable Biomaterials
 
 **No existing platform** combines real-time neuroscience simulation + agentic protein engineering.
 
-## ** 10-Cell Architecture (Complete System)**
+##  10-Cell Architecture (Complete System)
 
 ```
 🧠 CELL 1-2: Foundation (Tools + Data Models)
